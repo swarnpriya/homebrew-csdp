@@ -13,7 +13,7 @@ class Csdp < Formula
 
 
   def patches
-    "https://gist.github.com/raw/b7c9897279ddd4baa5f3/0c9ff610af61f9231f0465818305f7ad2863a3e6/Csdp-6.1.1-homebrew.patch"
+    "https://gist.github.com/raw/b7c9897279ddd4baa5f3/07d5153f4e8bc2b1231529b51f0986f4ff98d387/Csdp-6.1.1-homebrew.patch"
   end
 
   def install
