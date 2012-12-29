@@ -9,7 +9,7 @@ After installing Homebrew, you must install a fortran compiler, and some version
 $ brew update
 $ brew install gfortran
 $ brew install openblas
-$ brew tap marcusps/csdp
+$ brew tap marcusps/homebrew-csdp
 $ brew install csdp
 ```
 
