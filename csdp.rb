@@ -7,7 +7,7 @@ class Csdp < Formula
   homepage 'https://projects.coin-or.org/Csdp'
   url 'http://www.coin-or.org/download/source/Csdp/Csdp-6.1.1.tgz'
   version '6.1.1'
-  sha1 'b57053c70be074101e192459abf13a3cec13587d'
+  sha256 'b57053c70be074101e192459abf13a3cec13587d'
 
   depends_on 'openblas'
 
