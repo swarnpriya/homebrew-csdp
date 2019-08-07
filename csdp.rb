@@ -21,7 +21,7 @@ class Csdp < Formula
     inreplace 'Makefile' do |s| 
       s.change_make_var! "BINDIR", bin
       s.change_make_var! "LIBDIR", lib
-      s.change_make_var! "CC", "gcc"
+      s.change_make_var! "CC", "gcc-9"
     end
 
     system "make all"
